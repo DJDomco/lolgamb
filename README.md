@@ -1,2 +1,4 @@
-# lolgamb
-League of Legends Gambling
+#League of Legends Gambling
+
+#Team
+
